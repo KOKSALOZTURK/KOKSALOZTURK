@@ -1,14 +1,12 @@
-## Hi there 👋
-:wave:
-## <h1 align=“center”> Hi there <img src=“https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif” width=“30px”> Kubilay is here
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/koksalozturk/))
-<a href=“https://github.com/yildizkubi” target=“_blank”> <img src=“https://user-images.githubusercontent.com/94930605/160260064-ff3aa908-cbfd-4350-ab28-a26a0b7a1819.png” alt=“github_pages” height=“28.5"/></a> <img src=“https://komarev.com/ghpvc/?username=koksalozturk” alt=“visitor counter” width=“15%“/>
+## <h1 align=“center”> Hi there <img src=“https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif” width=“30px”> KOKSAL is here
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yildizkubi/)
+<a href=“https://github.com/yildizkubi” target=“_blank”> <img src=“https://user-images.githubusercontent.com/94930605/160260064-ff3aa908-cbfd-4350-ab28-a26a0b7a1819.png” alt=“github_pages” height=“28.5"/></a> <img src=“https://komarev.com/ghpvc/?username=yildizkubi” alt=“visitor counter” width=“15%“/>
 <!-- <p align=“left”>  </p> -->
 ### What I’m using ? :hammer_and_spanner:
-I am a web developer and data analyst.
+I am AWS-DevOps Engineer
 <br/>
 - Python, HTML5 , CSS , Linux , Git , GitHub , Jira , Agile , SQL , AWS , Terraform , Docker , Kubernets ,Ansible , Maven , Nexus
--  You can reach me via Linkedin:  <a href=“https://www.linkedin.com/in/koksalozturk/” target=“_blank”> <img src=“(https://media.licdn.com/dms/image/v2/C4D03AQGc1hmuEhwqHA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1554958412221?e=1749081600&v=beta&t=laa5Vc9gmERq5HDv-Fi-5Cw96rr7pk8TIHJRNZb7Q7o)” alt=“Linkedin” height=“20"/></a>
+-  You can reach me via Linkedin:  <a href=“https://www.linkedin.com/in/yildizkubi/” target=“_blank”> <img src=“https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white” alt=“Linkedin” height=“20"/></a>
 ## :rocket: Skills
 <p>
  <a href=“#” target=“_blank”> <img src=“https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg” alt=“AWS” width=“70” height=“48"/> </a>
@@ -32,25 +30,6 @@ I am a web developer and data analyst.
 </p>
 ## :chart_with_upwards_trend: Statistics
 <p align=“left”>
-<img src=“https://github-readme-stats.vercel.app/api?username=KOKSALOZTURK&theme=chartreuse-dark&show_icons=true” alt=“my github stats” width=“49%“/>&nbsp;
-<img src=“https://github-readme-streak-stats.herokuapp.com/?user=KOKSALOZTURK&theme=chartreuse-dark&show_icons=true” alt=“my commit status” width=“49%” /> </p>
+<img src=“https://github-readme-stats.vercel.app/api?username=yildizkubi&theme=chartreuse-dark&show_icons=true” alt=“my github stats” width=“49%“/>&nbsp;
+<img src=“https://github-readme-streak-stats.herokuapp.com/?user=yildizkubi&theme=chartreuse-dark&show_icons=true” alt=“my commit status” width=“49%” /> </p>
 <p align=“center”> <img src=“https://github-readme-stats.vercel.app/api/top-langs/?username=yildizkubi&theme=chartreuse-dark&layout=compact” alt=“languages” width=“50%” > </p>
-(138 kB)
-https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif
-
-(11 kB)
-
-<!--
-**KOKSALOZTURK/KOKSALOZTURK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
